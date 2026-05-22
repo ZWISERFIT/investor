@@ -1,5 +1,7 @@
 # 📖 ZWISERFIT Investor Quick Start
 
+> This is a data room, not a pitch deck. All records are agent-verified & timestamped.
+
 > **You're an investor. You have limited time. Here's everything you need.**
 
 ---
