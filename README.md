@@ -6,6 +6,18 @@
 
 ---
 
+
+---
+
+## 📬 June 2026 Update · Capital MVP Mode
+
+**Cold Outreach:** 8/8 VC emails sent (6/5 15:25) · Variant, Framework, JDI, 1confirmation, Borderless, Delphi, Multicoin, a16z Speedrun
+**D+7 Follow-up:** June 12 · Templates ready
+**Accelerators:** 5/5 submitted (YC, Qiji, Techstars, a16z Speedrun, NVIDIA)
+**Benchmarks:** Blackbird (a16z-backed·$35M·Arcade Token)·WHOOP ($3.6B·sovereignty premium)
+**PoPB Protocol:** Pages online · HTTP/2 200 · MIT licensed
+**Angel Round:** Post-D-Day · Capital MVP autonomous operation mode
+
 ## ⏱️ 5-Minute Path — Angel / Pre-Seed Screening
 
 > *What we do. Why now. Why us.*
